@@ -1,4 +1,4 @@
-# pyget
+# slidesget
 Download files from slide...re.net
 
 Up and Running:
